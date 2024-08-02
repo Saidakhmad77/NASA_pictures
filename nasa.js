@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const apiKey = 'uX5mbnMNcWqnpHauI0SB1fDmXaTN1IlbvB0unu3Q'; // Replace with your API key
+    const apiKey = 'API_KEY'; // Replace with your API key
     const apiUrl = 'https://api.nasa.gov/planetary/apod';
 
     // Function to fetch and display APOD
